@@ -2,3 +2,4 @@ Hello world
 Checking PR
 Another text
 New text
+New text 2
